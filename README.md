@@ -1,2 +1,3 @@
-# ObserveX
-AI-Powered Enterprise Device Monitoring, Observability &amp; AIOps Platform
+# SentinelOps
+
+AI-Powered Enterprise Monitoring & Observability Platform
