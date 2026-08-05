@@ -223,36 +223,6 @@ python main.py
 
 ---
 
-# Screenshots
-
-> Add screenshots here after running the project.
-
-### Dashboard
-
-```
-screenshots/dashboard.png
-```
-
-### Monitoring
-
-```
-screenshots/monitoring.png
-```
-
-### Alerts
-
-```
-screenshots/alerts.png
-```
-
-### Incidents
-
-```
-screenshots/incidents.png
-```
-
----
-
 # Future Enhancements
 
 - AI-powered anomaly detection
